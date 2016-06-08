@@ -1,0 +1,1 @@
+This is a sample application that uses log4net in Web API aaplication for logging into ElasticSearch.
